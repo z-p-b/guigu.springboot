@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.RestController;
 
 /*
-    @author : 鹏博
+    @author : 鹏博.
     @date : 2022/6/1220:20
     @description : some description
 */

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="efa0513e-8d6c-4ed1-9f18-7733391b6e10" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/guigu.springboot.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/boot-01-helloworld/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/boot-01-helloworld/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/boot-01-helloworld/src/main/java/com/atguigu/boot/controller/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/boot-01-helloworld/src/main/java/com/atguigu/boot/controller/HelloController.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\guigu.springboot\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="2AWTfbrTp5jhVnGbLGBUVMsHQ6Y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="efa0513e-8d6c-4ed1-9f18-7733391b6e10" name="Default Changelist" comment="" />
+      <created>1655124445628</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655124445628</updated>
+      <workItem from="1655124446841" duration="175000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="267" y="109" key="#Notifications" timestamp="1655124544011">
+      <screen x="0" y="0" width="1347" height="900" />
+    </state>
+    <state x="267" y="109" key="#Notifications/0.0.1347.900/2880.0.1858.1080@0.0.1347.900" timestamp="1655124544011" />
+    <state x="455" y="192" key="FileChooserDialogImpl" timestamp="1655124586075">
+      <screen x="0" y="0" width="1347" height="900" />
+    </state>
+    <state x="455" y="192" key="FileChooserDialogImpl/0.0.1347.900/2880.0.1858.1080@0.0.1347.900" timestamp="1655124586075" />
+    <state x="176" y="93" key="SettingsEditor" timestamp="1655124500654">
+      <screen x="0" y="0" width="1347" height="900" />
+    </state>
+    <state x="176" y="93" key="SettingsEditor/0.0.1347.900/2880.0.1858.1080@0.0.1347.900" timestamp="1655124500654" />
+  </component>
+</project>
